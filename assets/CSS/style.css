@@ -14,7 +14,7 @@ a{
 
 header{
     width: 100%;
-    height:105px;
+    height:115px;
     background-color: #003E0B;
 }
 
@@ -56,6 +56,41 @@ header{
 }
 
 #menu, #logo{
-    line-height: 80px;
+    line-height: 90px;
 }
 /*header*/
+
+/*hero-image*/
+
+.hero-outer{
+    width: 100%;
+    height: 820px;
+    
+}
+
+#hero-image{
+    background: url('/assets/images/backyard-hazards-hp-orig.jpg') no-repeat center center;
+    width: 100%;
+    height: 820px;
+}
+
+#hero-text{
+    background-color: #fdfd00;
+    color: #003E0B;
+    width: max-content;
+    height: max-content;
+    bottom: 100px;
+    left: 50px;
+    text-align: center;
+    font-size: 150%;
+    font-family: Merriweather, sans-serif;
+    padding: 50px;
+    border: 1px;
+    border-radius: 50px;
+    position:absolute;
+}
+
+#hero-text h3{
+    font-family: Lato, sans-serif;
+}
+
