@@ -37,6 +37,7 @@ header{
 #menu a{
     color: #BED71B;
     padding: 5px;
+    border: 1px solid #003E0B;
 }
 
 #menu a:hover{
@@ -45,7 +46,7 @@ header{
 }
 
 .active{
-    border: 1px solid #BED71B;
+    border: 1px solid #BED71B  !important;
     padding: 5px;
 }
 
@@ -77,14 +78,13 @@ header{
 #hero-text{
     background-color: #fdfd00;
     color: #003E0B;
-    width: 25%;
-    height: 10%;
+    margin-right: 50px;
     bottom: 100px;
     left: 50px;
     text-align: center;
     font-size: 150%;
     font-family: Merriweather, sans-serif;
-    padding: 50px;
+    padding: 30px;
     border: 1px;
     border-radius: 50px;
     position:absolute;
@@ -100,31 +100,65 @@ header{
 
 .youtube-outer{
     width: 100%;
-    height: 400px;
+    height: 650px;
+    
 }
 
 #youtube-video{
     position: relative;
     width: 60%;
-    padding-bottom: 56.25%; 
-    height: 0;
+    height: 100%;
     float: left;
     margin-left: 50px;
-  }
+}
+
   #youtube-video iframe{
     position: absolute;
     top:0;
     left: 0;
     width: 100%;
-    height: 80%;
-  }
+    height: 100%;
+}
 
 #youtube-text{
     float: right;
-    width: 34.7%;
-    height: 80%;
+    color: #003E0B;
+    width: 30%;
+    height: 100%;
     margin-right: 50px;
+    line-height: 50px;
     text-align: center;
-    background-color: salmon;
+    font-family: Lato, sans-serif;
+    font-size: 150%;
+    display: flex;
+    align-items: center;
+}
+
+#youtube-text h2{
+    font-family: Merryweather,sans-serif;
+    font-style: italic;
 }
 /*youtube*/
+
+/*footer*/
+
+footer{
+    width: 100%;
+    height: 150px;
+    background-color: #003E0B;
+}
+
+footer div{
+    width: 100%;
+    text-align: left;
+}
+
+#social{
+    list-style-type: none;
+}
+
+#social li{
+    float: left;
+    font-size: 150%;
+}
+/*footer*/
