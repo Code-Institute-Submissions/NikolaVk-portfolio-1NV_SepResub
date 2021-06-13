@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Merriweather+Sans:ital,wght@1,300&family=Merriweather:ital@1&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -18,8 +20,9 @@ header{
 
 #logo{
     color: rgb(220, 255, 23);
-    text-transform: uppercase;
-    font-size: 250%;
+    font-family: merriweather, sans-serif;
+    font-style: italic;
+    font-weight: bold;
     margin-left: 50px;
     float: left;
     margin-top: 10px;
@@ -27,6 +30,7 @@ header{
 
 #menu{
    font-size: 150%;
+   font-family: Lato, sans-serif;
    margin-right: 50px; 
 }
 
