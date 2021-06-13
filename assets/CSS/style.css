@@ -77,8 +77,8 @@ header{
 #hero-text{
     background-color: #fdfd00;
     color: #003E0B;
-    width: max-content;
-    height: max-content;
+    width: 25%;
+    height: 10%;
     bottom: 100px;
     left: 50px;
     text-align: center;
@@ -94,3 +94,37 @@ header{
     font-family: Lato, sans-serif;
 }
 
+/*hero-image*/
+
+/*youtube*/
+
+.youtube-outer{
+    width: 100%;
+    height: 400px;
+}
+
+#youtube-video{
+    position: relative;
+    width: 60%;
+    padding-bottom: 56.25%; 
+    height: 0;
+    float: left;
+    margin-left: 50px;
+  }
+  #youtube-video iframe{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 80%;
+  }
+
+#youtube-text{
+    float: right;
+    width: 34.7%;
+    height: 80%;
+    margin-right: 50px;
+    text-align: center;
+    background-color: salmon;
+}
+/*youtube*/
