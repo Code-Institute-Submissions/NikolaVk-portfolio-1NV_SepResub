@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* header*/
+
+header{
+    width: 100%;
+    height:105px;
+    background-color: rgb(5, 83, 5);
+}
+
+#logo{
+    color: rgb(220, 255, 23);
+    text-transform: uppercase;
+    font-size: 250%;
+    margin-left: 50px;
+    float: left;
+    margin-top: 10px;
+}
+
+#menu{
+   font-size: 150%;
+   margin-right: 50px; 
+}
+
+#menu a{
+    color: rgb(220, 255, 23);
+}
+
+#menu li{
+    list-style-type: none;
+    float: right;
+    margin:10px;
+}
+
+#menu, #logo{
+    line-height: 80px;
+}
+/*header*/
