@@ -208,10 +208,35 @@ footer div{
     position:absolute;
 }
 
+.intro-outer{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+}
+
+#con-intro{
+    width: 25%;
+    height: 100%;
+    margin-top: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 60px;
+    border-left: 2px solid #fdfd00;
+    border-right: 2px solid #fdfd00;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+#con-intro p{
+    font-family: Lato, sans-serif;
+    font-weight: bold;
+    font-size: 100%;
+}
+
 .con-outer{
     width: 100%;
     height: 400px;
-    margin-top: 20px;
+    margin-top: 50px;
     margin-bottom: 60px;
 }
 
