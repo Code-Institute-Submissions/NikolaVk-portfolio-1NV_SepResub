@@ -208,6 +208,7 @@ footer div{
     position:absolute;
 }
 
+
 .intro-outer{
     width: 100%;
     text-align: center;
@@ -236,26 +237,45 @@ footer div{
     height: 400px;
     margin-top: 20px;
     margin-bottom: 150px;
+    text-align: center;
 }
 
-#con-head{
+#con-headouter{
     width: 100%;
     height: 100px;
     background-color:#003E0B;
+    display: inline-block;
+    
 
+}
+
+#con-head{
+    background-color: #fdfd00;
+    color: #003E0B; 
+    margin-top: 7px;
+    font-size: 150%;
+    font-family: Merriweather, sans-serif;
+    padding: 20px;
+    border: 1px;
+    border-radius: 50px;
+    display: inline-block;
 }
 
 #con-img{
     width: 50%;
     height: 100%;
-    background-color: lawngreen;
     float: left;
+
 }
 
 #con-txt{
     width: 50%;
-    height: 100%;
     background-color: lightseagreen;
     float: right;
+}
+
+#con-txt p{
+    font-family: Lato, sans-serif;
+    font-size: 120%;
 }
 /*construction*/
