@@ -181,12 +181,6 @@ footer div{
 
 /*construction-maintenance*/
 
-#hero-construction{
-    background: url('/assets/images/backyard-hazards-hp-orig.jpg') no-repeat center center;
-    width: 100%;
-    height: 420px;
-}
-
 #construction-image{
     background: url('/assets/images/shovel-breaking-ground-1.jpg') no-repeat center center;
     width: 100%;
@@ -284,3 +278,105 @@ footer div{
 }
 
 /*construction-maintenance*/
+
+/*maintenance*/
+
+#maintenance-image{
+    background: url('/assets/images/Garden-maintenance-cost.jpg') no-repeat center center;
+    width: 100%;
+    height: 420px;
+}
+
+#maintenance-text{
+    background-color: #fdfd00;
+    color: #003E0B;
+    left: 50px;
+    top: 400px;
+    text-align: center;
+    font-size: 150%;
+    font-family: Merriweather, sans-serif;
+    padding: 30px;
+    border: 1px;
+    border-radius: 50px;
+    display: inline-block;
+    position:absolute;
+}
+
+/*maintenance*/
+
+/*tools*/
+
+#tools-image{
+    background: url('/assets/images/gardening-tools-for-the-spring-1200x674.jpg') no-repeat center center;
+    width: 100%;
+    height: 420px;
+}
+
+#tools-text{
+    background-color: #fdfd00;
+    color: #003E0B;
+    left: 50px;
+    top: 400px;
+    text-align: center;
+    font-size: 150%;
+    font-family: Merriweather, sans-serif;
+    padding: 30px;
+    border: 1px;
+    border-radius: 50px;
+    display: inline-block;
+    position:absolute;
+}
+
+.tool-outer{
+    width: 100%;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#tool-headouter{
+    width: 100%;
+    height: 100px;
+    background-color:#003E0B;
+    display: inline-block;
+}
+
+#tool-head{
+    background-color: #fdfd00;
+    color: #003E0B; 
+    margin-top: 7px;
+    font-size: 150%;
+    font-family: Merriweather, sans-serif;
+    padding: 20px;
+    border: 1px;
+    border-radius: 50px;
+    display: inline-block;
+}
+
+.tool-imgtxt{
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+#tool-img{
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#tool-txt{
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+#tool-txt p{
+    font-family: Lato, sans-serif;
+    font-size: 120%;
+}
+
+/*tools*/
