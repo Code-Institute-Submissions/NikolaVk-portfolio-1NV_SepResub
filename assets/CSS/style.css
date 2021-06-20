@@ -382,3 +382,29 @@ footer div{
 }
 
 /*tools*/
+
+/*contact*/
+
+#contact-image{
+    background: url('/assets/images/Benefits-of-Hiring-a-Landscaper.jpg') no-repeat center center;
+    width: 100%;
+    height: 800px;
+}
+
+#contact-text{
+    background-color: #fdfd00;
+    color: #003E0B;
+    left: 50px;
+    top: 400px;
+    text-align: center;
+    font-size: 150%;
+    font-family: Merriweather, sans-serif;
+    padding: 30px;
+    border: 1px;
+    border-radius: 50px;
+    display: inline-block;
+    position:absolute;
+}
+
+
+/*contact*/
