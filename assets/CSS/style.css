@@ -459,5 +459,10 @@ textarea, input:focus{
 
 }
 
+.button:hover{
+    background-color: #BED71B;
+    color: #003E0B;
+}
+
 /*contact*/
 
