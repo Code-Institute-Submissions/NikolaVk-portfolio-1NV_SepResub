@@ -147,6 +147,7 @@ footer{
     height: 130px;
     padding: 1% 0 1% 0;
     background-color: #003E0B;
+    display: inline-block;
 }
 
 footer div{
@@ -353,21 +354,22 @@ footer div{
 }
 
 .tool-imgtxt{
-    width: 100%;
+    width: 25%;
     padding-left: 50px;
     padding-right: 50px;
     margin-bottom: 20px;
     box-sizing: border-box;
+    float: left;
 }
 
 #tool-img{
-    width: 50%;
+    width: 100%;
     display: inline-block;
     vertical-align: top;
 }
 
 #tool-txt{
-    width: 50%;
+    width: 100%;
     display: inline-block;
     vertical-align: top;
     box-sizing: border-box;
