@@ -407,8 +407,56 @@ footer div{
 }
 
 .contact{
+    background-color: #fdfd007a;
+    width: 40%;
+    float: right;
+    height: 550px;
+    margin-right: 50px;
+    margin-top: 150px;
+    padding: 10px;
+    border-radius: 50px;
+    box-sizing: border-box;
     
+}
+
+input{
+    background-color: #fff;
+    width: 100%;
+    height: 8%;
+    margin-top: 20px;
+    border-radius: 50px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: #003E0B 1px solid;
     
+}
+
+input, input:focus{
+    outline: none;
+} 
+
+textarea{
+    background-color:#fff;
+    width: 100%;
+    height: 200px;
+    margin-top: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    resize: none;
+    border: #003E0B 1px solid;
+}
+
+textarea, input:focus{
+    outline: none;
+} 
+
+.button{
+    background-color: #003E0B;
+    color: #BED71B;
+    width: 40%;
+    float: left;
+    margin-left: 50px;
+
 }
 
 /*contact*/
