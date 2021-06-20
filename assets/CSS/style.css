@@ -444,6 +444,8 @@ textarea{
     box-sizing: border-box;
     resize: none;
     border: #003E0B 1px solid;
+    border-radius: 25px;
+
 }
 
 textarea, input:focus{
