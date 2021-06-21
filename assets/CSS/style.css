@@ -495,7 +495,7 @@ textarea, input:focus{
 
 /*media queries*/
 
-@media (max-width: 1000px) {
+@media (max-width: 1050px) {
 
     #logo{
         text-align: center;
@@ -548,6 +548,16 @@ textarea, input:focus{
 
     .checkbutton #logo{
         line-height: 90px;
+    }
+
+    #youtube-video{
+        width: 100%;
+        margin: 0;
+    }
+
+    #youtube-text{
+        width: 100%;
+        margin: 0;
     }
 
     
