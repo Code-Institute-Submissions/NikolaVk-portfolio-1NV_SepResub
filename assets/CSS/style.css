@@ -588,8 +588,6 @@ textarea, input:focus{
         width: 100%;
     }
 
-    
-
     #contact-text{
         top: 135px;
     }
@@ -597,8 +595,41 @@ textarea, input:focus{
     .contact{
         background-color: #fdfd007a;
         width: 670px;  
+    }  
+}
+
+
+@media (max-width: 700px){
+
+
+    .checkbutton{
+        font-size: 40px;
+        margin: 0;
+        margin-left: 10px;
     }
 
-    
-    
+    #logo{
+        font-size: 30px;
+         
+    }
+
+    #hero-text{
+        font-size: 15px;
+    }
+
+    #hero-text h2{
+        font-size: 25px;
+    }
+
+    #youtube-text{
+        font-size: 20px;
+    }
+
+    #youtube-video{
+        height: 250px;
+    }
+
+
+
+
 }
