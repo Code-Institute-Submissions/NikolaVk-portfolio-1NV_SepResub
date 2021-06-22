@@ -562,16 +562,31 @@ textarea, input:focus{
 
     #con-img{
         width: 100%;
-        display: inline-block;
-        vertical-align: top;
     }
     
     #con-txt{
         width: 100%;
-        display: inline-block;
-        vertical-align: top;
-        box-sizing: border-box;
-        padding: 10px;
+    }
+
+    .tool-imgtxt{
+        width: 50%;
+    }
+    
+    #tool-img{
+        width: 100%;
+    }
+    
+    #tool-txt{
+        width: 100%;
+    }
+
+    #contact-text{
+        top: 135px;
+    }
+
+    .contact{
+        background-color: #fdfd007a;
+        width: 670px;  
     }
 
     
