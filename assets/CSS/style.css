@@ -679,9 +679,32 @@ textarea, input:focus{
         padding: 0;
     }
 
+    #contact-text{
+        margin-left: 30px;
+    }
 
+    #contact-text h2{
+        font-size: 25px;
 
+    }
 
+    .contact {
+        width: 285px;
+    }
 
+    .button{
+        width: 30%;
+        margin: 0;
+        margin-left: 35px;
+        margin-top: 20px;
+    }
 
+    #social{
+        font-size: 12px;
+
+    }
+
+    #copyright{
+        font-size: 12px;
+    }
 }
