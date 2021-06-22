@@ -629,6 +629,36 @@ textarea, input:focus{
         height: 250px;
     }
 
+    #construction-text{
+        margin-left: 20px;
+    }
+
+    #construction-text h2{
+        font-size: 25px;
+    }
+
+    #con-intro{
+        width: 300px; 
+    }
+
+    #con-headouter{
+        height: 87px;
+    }
+
+    #con-head h2{
+        font-size: 25px;
+    }
+
+    .con-imgtxt{
+        padding:0px;
+    }
+
+    #maintenance-text h2{
+        font-size: 25px;
+    }
+
+
+
 
 
 
