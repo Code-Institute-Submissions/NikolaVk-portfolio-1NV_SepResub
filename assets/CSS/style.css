@@ -657,6 +657,28 @@ textarea, input:focus{
         font-size: 25px;
     }
 
+    #tools-text{
+        margin-left: 60px;
+    }
+
+    #tools-text h2{
+        font-size: 25px;
+
+    }
+
+    #tool-headouter{
+        height: 87px;
+    }
+
+    #tool-head h2{
+        font-size: 25px;
+    }
+
+    .tool-imgtxt{
+        width: 100%;
+        padding: 0;
+    }
+
 
 
 
