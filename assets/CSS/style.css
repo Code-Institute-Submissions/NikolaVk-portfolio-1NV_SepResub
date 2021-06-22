@@ -90,8 +90,7 @@ header{
 
 .hero-outer{
     width: 100%;
-    height: 820px;
-    
+    height: 820px; 
 }
 
 #hero-image{
@@ -550,6 +549,10 @@ textarea, input:focus{
         line-height: 90px;
     }
 
+    #hero-text{
+        bottom: 200px;
+    }
+
     #youtube-video{
         width: 100%;
         margin: 0;
@@ -559,6 +562,10 @@ textarea, input:focus{
         width: 100%;
         height: 400px;
         margin: 0;
+    }
+
+    #construction-image{
+        background: url(/assets/images/shovel-breaking-ground-1.jpg) no-repeat left center;
     }
 
     #con-img{
@@ -580,6 +587,8 @@ textarea, input:focus{
     #tool-txt{
         width: 100%;
     }
+
+    
 
     #contact-text{
         top: 135px;
