@@ -535,6 +535,7 @@ textarea, input:focus{
         display: block;
         width: 100%;
         bottom: 0px;
+        font-weight: bolder;
         background-color: #003E0B;
         top: 115px;
         left:-100%;
