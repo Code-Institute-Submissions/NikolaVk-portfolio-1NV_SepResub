@@ -617,6 +617,10 @@ textarea, input:focus{
 
 @media (max-width:900px){
 
+    #contact-image{
+        height: 883px;
+    }
+
     #hero-text{
         top: 400px;
     }
