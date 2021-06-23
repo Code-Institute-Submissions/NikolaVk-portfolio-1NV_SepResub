@@ -498,6 +498,17 @@ textarea, input:focus{
 
 /*media queries*/
 
+@media (max-width:1300px){
+    .contact{
+        width: 50%;
+    }
+
+    .tool-imgtxt{
+        width: 33.3%;
+    }
+
+}
+
 @media (max-width: 1100px) {
 
 
