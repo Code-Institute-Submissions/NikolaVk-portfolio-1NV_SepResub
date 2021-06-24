@@ -97,7 +97,7 @@ header{
 }
 
 #hero-image{
-    background: url('/assets/images/pexels-mike-145685.jpg') no-repeat center center;
+    background: url('/assets/images/hero/pexels-mike-145685.jpg') no-repeat center center;
     background-size: 100%;
     width: 100%;
     height: 820px;
@@ -212,7 +212,7 @@ footer div{
 /*construction-maintenance*/
 
 #construction-image{
-    background: url('/assets/images/pikwizard-a6b280b933d0448d52776e1d36d420e9.jpg') no-repeat center center;
+    background: url('/assets/images/hero/pikwizard-a6b280b933d0448d52776e1d36d420e9.jpg') no-repeat center center;
     background-size: 100%;
     width: 100%;
     height: 420px;
@@ -313,7 +313,7 @@ footer div{
 /*maintenance*/
 
 #maintenance-image{
-    background: url('/assets/images/pexels-magda-ehlers-4162016.jpg') no-repeat center center;
+    background: url('/assets/images/hero/pexels-magda-ehlers-4162016.jpg') no-repeat center center;
     background-size: 100%;
     width: 100%;
     height: 420px;
@@ -339,7 +339,7 @@ footer div{
 /*tools*/
 
 #tools-image{
-    background: url('/assets/images/luis-feliciano-9EH5AkClwZ0-unsplash.jpg') no-repeat center center;
+    background: url('/assets/images/hero/luis-feliciano-9EH5AkClwZ0-unsplash.jpg') no-repeat center center;
     width: 100%;
     background-size: 100%;
     height: 420px;
@@ -418,7 +418,7 @@ footer div{
 /*contact*/
 
 #contact-image{
-    background: url('/assets/images/pikwizard-80fe1a289aa8c6eac7cb1d445efd1529.jpg') no-repeat center center;
+    background: url('/assets/images/hero/pikwizard-80fe1a289aa8c6eac7cb1d445efd1529.jpg') no-repeat center center;
     background-size: 100%;
     width: 100%;
     height: 850px;
