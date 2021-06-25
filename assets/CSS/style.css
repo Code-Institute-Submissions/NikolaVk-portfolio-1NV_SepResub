@@ -299,8 +299,9 @@ footer div{
     width: 50%;
     display: inline-block;
     vertical-align: top;
+    text-align: left;
     box-sizing: border-box;
-    padding: 10px;
+    padding: 10px 30px;
 }
 
 #con-txt p{
