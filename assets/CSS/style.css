@@ -16,6 +16,12 @@ header{
     width: 100%;
     height:115px;
     background-color: #003E0B;
+    position: fixed;
+    z-index: 10;
+}
+
+#spacer{
+    height: 115px;
 }
 
 #logo{
