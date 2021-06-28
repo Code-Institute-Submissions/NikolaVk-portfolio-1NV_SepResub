@@ -220,6 +220,11 @@ footer div{
 
 /*construction-maintenance*/
 
+.con-img img{
+    width: 100%;
+    height: 100%;
+}
+
 #construction-image{
     background: url('../images/hero/pikwizard-a6b280b933d0448d52776e1d36d420e9.jpg') no-repeat center center;
     background-size: 100%;
@@ -408,6 +413,11 @@ footer div{
     width: 100%;
     display: inline-block;
     vertical-align: top;
+}
+
+.tool-img img{
+    width: 100%;
+    height: 100%;
 }
 
 .tool-txt{
