@@ -195,7 +195,6 @@ footer div{
 }
 
 #social li{
-    color: #BED71B;
     font-size: 400%;
     display: inline-block;
     width: 15%;
@@ -206,6 +205,10 @@ footer div{
 #social li:hover{
     border: 1px solid #BED71B;
     padding: 5px;
+}
+
+#social a{
+    color: #BED71B;
 }
 
 #copyright{
