@@ -601,11 +601,11 @@ textarea, input:focus{
         background-size: cover;
     }
 
-    #con-img{
+    .con-img{
         width: 100%;
     }
     
-    #con-txt{
+    .con-txt{
         width: 100%;
     }
 
@@ -621,11 +621,11 @@ textarea, input:focus{
         width: 50%;
     }
     
-    #tool-img{
+    .tool-img{
         width: 100%;
     }
     
-    #tool-txt{
+    .tool-txt{
         width: 100%;
     }
 
@@ -724,11 +724,11 @@ textarea, input:focus{
         width: 300px; 
     }
 
-    #con-headouter{
+    .con-headouter{
         height: 87px;
     }
 
-    #con-head h2{
+    .con-head h2{
         font-size: 25px;
     }
 
