@@ -271,14 +271,14 @@ footer div{
     text-align: center;
 }
 
-#con-headouter{
+.con-headouter{
     width: 100%;
     height: 100px;
     background-color:#003E0B;
     display: inline-block;
 }
 
-#con-head{
+.con-head{
     background-color: #fdfd00;
     color: #003E0B; 
     margin-top: 7px;
@@ -298,13 +298,13 @@ footer div{
     box-sizing: border-box;
 }
 
-#con-img{
+.con-img{
     width: 50%;
     display: inline-block;
     vertical-align: top;
 }
 
-#con-txt{
+.con-txt{
     width: 50%;
     display: inline-block;
     vertical-align: top;
@@ -313,7 +313,7 @@ footer div{
     padding: 10px 30px;
 }
 
-#con-txt p{
+.con-txt p{
     font-family: Lato, sans-serif;
     font-size: 120%;
 }
