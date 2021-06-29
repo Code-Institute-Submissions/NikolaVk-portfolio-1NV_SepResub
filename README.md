@@ -45,9 +45,9 @@ The wireframe was made using AdobeXD and exported to a pdf file.
 
 [View](assets/readme/pojoect-1.pdf)
 
-### Testing 
+## Testing 
 
-## Self testing
+### Self testing
 
 I tested the site on a 17.3 and 15.3 inch laptop on Google Chrome, Mozilla Firefox and Micrsoft Edge
 The site was also tested on a android teblet using Google Chrome and on a iPad using Safari. It was tested in portrait and landschape mode.
