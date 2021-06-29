@@ -20,6 +20,7 @@ On the construction page theres a list of items within every section. Within tha
 The navigation bar has visual conformation on a computer when you hover over it.
 The header is fixed so when you scroll down it will follow the user to the bottom so that the user never has to scroll back up when wanting to switch pages
 
+<img src="https://github.com/NikolaVk/portfolio-1NV/tree/master/assets/readme/Header.PNG">
 
 ### Hamburger menu
 
