@@ -11,7 +11,6 @@ How to garden is a website made to try and get people to go outside and get gree
 ### General
 
 Every page has its own image so you know for sure you switched from one page to another
-On the construction page theres a list of items within every section. Within that list are links that will open the tools page and it will automatically scroll down to that specific tool so the user knows how the tool looks like widouth having to go to a different website
 
 ### Header
 
@@ -23,23 +22,32 @@ The header is fixed so when you scroll down it will follow the user to the botto
 ### Hamburger menu
 
 For mobile devices the navigation bar will dissapear and go into a hamburger menu. Here you can always see on which page you are due to the border it comes arround when on each page. I also made the letters bold so they are more vissible for certain users.
+
 <div align="center">
     <img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/hamburger.PNG" width="50%">
 </div>
 
-### Styling
+### Construction page
 
-## Font
+On the construction page theres a list of items within every section. Within that list are links that will open the tools page and it will automatically scroll down to that specific tool so the user knows how the tool looks like widouth having to go to a different website
 
-## Color Scheme
+### Contact page
+
+The contact page is made for users who don't understand or have questions about construction, maintenance and tools.
 
 ### Footer
 
 Within the footer you can find social links to the developer's pages. Just like the navigation bar the user will get visual conformation when hovering over one of the links. All links open in a new page.
 
+## Styling
+
+### Font
+
+### Color Scheme
+
 <img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/footer.PNG" width="100%">
 
-### Wireframes
+## Wireframes
 
 The wireframe was made using AdobeXD and exported to a pdf file.
 
@@ -54,7 +62,7 @@ The site was also tested on a android teblet using Google Chrome and on a iPad u
 I also tested it my android phone using Google chrome and on a iPhone using Safari.
 
 
-## Validator Testing 
+### Validator Testing 
 
 The HTML code was tested using the W3C validator. No errors were found.
 
@@ -77,5 +85,3 @@ After you saved the page will refresh and it will show you this [link](https://n
 ### Content 
 
 ### Media
-
-## Other General Project Advice
