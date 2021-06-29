@@ -35,17 +35,19 @@ On the construction page theres a list of items within every section. Within tha
 
 The contact page is made for users who don't understand or have questions about construction, maintenance and tools.
 
+<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/contact.PNG" width="100%">
+
 ### Footer
 
 Within the footer you can find social links to the developer's pages. Just like the navigation bar the user will get visual conformation when hovering over one of the links. All links open in a new page.
+
+<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/footer.PNG" width="100%">
 
 ## Styling
 
 ### Font
 
 ### Color Scheme
-
-<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/footer.PNG" width="100%">
 
 ## Wireframes
 
