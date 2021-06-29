@@ -24,7 +24,7 @@ The header is fixed so when you scroll down it will follow the user to the botto
 
 For mobile devices the navigation bar will dissapear and go into a hamburger menu. Here you can always see on which page you are due to the border it comes arround when on each page. I also made the letters bold so they are more vissible for certain users.
 
-<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/hamburger.PNG" width="100%">
+<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/hamburger.PNG" width="100%" height="300px">
 
 ### Footer
 
