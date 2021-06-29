@@ -27,9 +27,21 @@ For mobile devices the navigation bar will dissapear and go into a hamburger men
     <img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/hamburger.PNG" width="50%">
 </div>
 
+### Styling
+
+## Font
+
+## Color Scheme
+
 ### Footer
 
 Within the footer you can find social links to the developer's pages. Just like the navigation bar the user will get visual conformation when hovering over one of the links. All links open in a new page.
+
+### Wireframes
+
+The wireframe was made using AdobeXD and exported to a pdf file.
+
+[View](assets/readme/pojoect-1.pdf)
 
 <img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/footer.PNG" width="100%">
 
