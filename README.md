@@ -119,6 +119,10 @@ For this website I used three different colours:
 - [Adobe InDesign](https://www.adobe.com/products/indesign.html) was used to make the logo for the readme.
 - [Github](https://github.com/) was used to store all the code added.
 - [Visual Studio Code](https://code.visualstudio.com/) was used to develop this project.
+- [TinyPNG](https://tinypng.com/) was used to compress all the images. This way a page may load faster.  
+- [Coolors](https://coolors.co/) was used to make the color pallet for the readme.
+- [Am I Responsive](http://ami.responsivedesign.is/#) was used to make the top image for the readme.
+- [W3C Markup Validator](https://validator.w3.org/#validate_by_uri) was used to test the code for errors and/or warnings.
 
 ### Libraries used
 
@@ -160,13 +164,19 @@ For this website I used three different colours:
 
 <img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/w3css.png" width="100%">
 
+### Known Bugs
+
+The only bug I know is when I open the hamburger menu aspecially on a small screen and its not completly visible, a user cant scroll down to go to tools and sometimes only contact page. This is because I made the header fixed to make it eaeier for users when wanting to switch pages. I tried to put the buttons closer to each other and at least on my laptop (developer tools) it looked fine until I opended it on my phone in landschape mode. 
+
 ## Deployment
 
-- Login to your github and go to [GitHub repository](https://github.com/NikolaVk?tab=repositories)
-- Go to your project and locate the settings above your file and click it
-- In the new page you will see the navigation bar to your left. In here locate pages and click on it
-- Here you will see the *GitHub Pages*. Here you will press branch and select the master branch. Now click save.
-- After you saved the page will refresh and it will show you this [link](https://nikolavk.github.io/portfolio-1NV/index.html)
+### Github pages
+
+1. Login to your github and go to [GitHub repository](https://github.com/NikolaVk?tab=repositories)
+2. Go to your project and locate the settings above your file and click it
+3. In the new page you will see the navigation bar to your left. In here locate pages and click on it
+4. Here you will see the *GitHub Pages*. Here you will press branch and select the master branch. Now click save.
+5. After you saved the page will refresh and it will show you this [link](https://nikolavk.github.io/portfolio-1NV/index.html)
 
 ## Credits 
 
@@ -225,9 +235,3 @@ All other images on the "Tools" page were made by the developer.
 #### Favicon
 
 - The favicon comes from Font Awesome, however [Florian Gauger](https://github.com/devgg) made a tool that lets you download all the fonts from Font Awesome and add it as a favicon. Here's the link of the [site](https://gauger.io/fonticon/)
-
-
-
-
-
-
