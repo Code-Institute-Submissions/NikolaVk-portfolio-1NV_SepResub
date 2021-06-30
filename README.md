@@ -1,8 +1,8 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/NikolaVk/portfolio-1NV/master/assets/readme/LOGO1.png" alt="How to Garden" aria-label="How to Garden logo (opens in new)">
+    <img src="https://raw.githubusercontent.com/NikolaVk/portfolio-1NV/master/assets/readme/howtogardenlogo.png" alt="How to Garden" aria-label="How to Garden logo (opens in new)">
 </div>
 
-<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/amiresponcive.PNG" width="100%">
+<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/amiresponcive.png" width="100%">
 
 The "How to garden" website is made to try and get people to go outside and get green fingers. Is's mostly targeted for people who want to design, construct and maintain their own yard. Also for people who don't want or can't hire a landscaper because from own experience as being a landscaper myself it can get pretty expencive really quickly.
 
@@ -17,14 +17,14 @@ Every page has its own image so you know for sure you switched from one page to 
 The navigation bar has visual conformation on a computer when you hover over it.
 The header is fixed so when you scroll down it will follow the user to the bottom so that the user never has to scroll back up when wanting to switch pages
 
-<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/Header.PNG" width="100%">
+<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/navbar.png" width="100%">
 
 ### Hamburger menu
 
 For mobile devices the navigation bar will dissapear and go into a hamburger menu. Here you can always see on which page you are due to the border it comes arround when on each page. I also made the letters bold so they are more vissible for certain users.
 
 <div align="center">
-    <img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/hamburger.PNG" width="50%">
+    <img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/hamburger.png" width="50%">
 </div>
 
 ### Construction page
@@ -35,13 +35,13 @@ On the construction page theres a list of items within every section. Within tha
 
 The contact page is made for users who don't understand or have questions about construction, maintenance and tools.
 
-<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/contact.PNG" width="100%">
+<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/contact.png" width="100%">
 
 ### Footer
 
 Within the footer you can find social links to the developer's pages. Just like the navigation bar the user will get visual conformation when hovering over one of the links. All links open in a new page.
 
-<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/footer.PNG" width="100%">
+<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/footer.png" width="100%">
 
 ## Styling
 
@@ -53,7 +53,7 @@ The fonts used for this site are Merryweather and Lato with a backup of Sans-ser
 
 For this website I used three different colours
 
-<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/colour%20scheme.png" width="100%">
+<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/colour-scheme.png" width="100%">
 
 
 
@@ -76,11 +76,11 @@ I also tested it my android phone using Google chrome and on a iPhone using Safa
 
 The HTML code was tested using the W3C validator. No errors were found.
 
-<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/w3html.PNG" width="100%">
+<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/w3html.png" width="100%">
 
 The CSS code was tested using the W3C CSS validator. No errors were found.
 
-<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/w3css.PNG" width="100%">
+<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/w3css.png" width="100%">
 
 ## Deployment
 
