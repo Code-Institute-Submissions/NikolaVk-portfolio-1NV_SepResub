@@ -47,9 +47,15 @@ Within the footer you can find social links to the developer's pages. Just like 
 
 ### Font
 
-The fonts used for this site are Merryweather and Lato with a backup of Sans-serif. 
+The fonts used for this site are Merryweather and Lato with a backup of Sans-serif. Merry weather was used for all heading elements, I chose it for it's bold and classic look which is fitting for a gardening site. Lato was used for all other elements smaller elements. It's clearly readable and again has a classic look to it.  
 
 ### Color Scheme
+
+For this website I used three different colours
+
+<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/colour%20scheme.png" width="100%">
+
+
 
 ## Wireframes
 
