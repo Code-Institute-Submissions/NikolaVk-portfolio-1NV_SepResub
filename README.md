@@ -168,4 +168,60 @@ The CSS code was tested using the W3C CSS validator. No errors were found.
 
 ### Content 
 
+All text was written by the developer
+
 ### Media
+
+#### Youtube 
+
+The video used comes from Youtube and is made by [Lowe's Home Improvement](https://www.youtube.com/watch?v=e-wO-LqEQb4&list=PLa3PshTmvKJ4w8f5joMP-e41ubrPxuXu0). 
+
+#### Images index.html
+
+This image comes from Pexels and it was made by [Mike](https://www.pexels.com/nl-nl/@mikebirdy). Here's a [link](https://www.pexels.com/nl-nl/foto/groene-bladplant-naast-rivier-145685/) of the image.
+
+#### Images Construction page
+
+This image comes from Pikwizard and it was made by [People Creations]. Here's a [link](https://pikwizard.com/photo/high-angle-view-of-shovel-on-dirt/a6b280b933d0448d52776e1d36d420e9) of the image.
+
+This image comes from Pexels and it was made by [Snapwire](https://www.pexels.com/nl-nl/@snapwire). Here's a [link](https://www.pexels.com/nl-nl/foto/hek-hout-houten-houten-hek-113726/) of the image.
+
+This image comes from Free Images and it was made by [Andrew Clarke](https://www.freeimages.com/photographer/annastasia-40497). Here's a [link](https://www.freeimages.com/photo/texture-laurel-hedge-1172433) of the image.
+
+This image comes from Unsplash and it was made by [Shelter](https://unsplash.com/@shelter). Here's a [link](https://unsplash.com/photos/i83g3jcd1YM) of the image.
+
+This image comes from Pexels and it was made by [Anna Shvets](https://www.pexels.com/nl-nl/@shvetsa). Here's a [link](https://www.pexels.com/nl-nl/foto/man-veld-tuin-platteland-5231232/) of the image.
+
+This image comes from Unsplash and it was made by [Ben Ashby](https://unsplash.com/@folk). Here's a [link](https://unsplash.com/photos/hsm-jZyTNeo) of the image.
+
+#### Images Maintenance
+
+This image comes from Pexels and it was made by [Magda Ehlers](https://www.pexels.com/nl-nl/@magda-ehlers-pexels). Here's a [link](https://www.pexels.com/nl-nl/foto/zomer-werken-tuin-auto-4162016/) of the image.
+
+This image comes from Pexels and it was made by [Pixabay](https://www.pexels.com/nl-nl/@pixabay). Here's a [link](https://www.pexels.com/nl-nl/foto/persoon-bedrijf-penseel-221027/) of the image.
+
+This image comes from Unsplash and it was made by [Boris Debusscher](https://unsplash.com/@borisdebusscher). Here's a [link](https://unsplash.com/photos/9Rtp9uvTs3Q) of the image.
+
+This image comes from Unsplash and it was made by [Daniel Watson](https://unsplash.com/@danielwatsondesign). Here's a [link](https://unsplash.com/photos/8vBpYpTGo90) of the image.
+
+This image comes from Pikwizard and it was made by [Authentic Images]. Here's a [link](https://pikwizard.com/photo/woman-pouring-soil-in-garden/b6d98e249988669373236b3d41a9ae45) of the image.
+
+#### Images Tools page
+
+This image comes from Unsplash and it was made by [Luís Feliciano](https://unsplash.com/@lmfeliciano). Here's a [link](https://unsplash.com/photos/9EH5AkClwZ0) of the image.
+
+This image comes from Pexels and it was made by [Skitterphoto](https://www.pexels.com/nl-nl/@skitterphoto). Here's a [link](https://www.pexels.com/nl-nl/foto/bank-bankje-begieten-boerderij-730923/) of the image.
+
+This image comes from Pikwizard and it was made by Awesome Content. Here's a [link](https://pikwizard.com/photo/portrait-of-happy-woman-holding-sapling-and-trowel-in-garden/80fe1a289aa8c6eac7cb1d445efd1529) of the image.
+
+All other images on the "Tools" page were made by the developer.
+
+#### Favicon
+
+The favicon comes from Font Awesome, however [Florian Gauger](https://github.com/devgg) made a tool that lets you download all the fonts from Font Awesome and add it as a favicon. Here's the link of the [site](https://gauger.io/fonticon/)
+
+
+
+
+
+
