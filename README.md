@@ -10,7 +10,7 @@ The "How to garden" website is made to try and get people to go outside and get 
 
 ### Visitor stories
 
-As a visitor of "How to Garden" I want/need:
+- As a visitor of "How to Garden" I want/need:
 
 1. I want to be able to understand the steps given to construct and/or maintain my garden
 
@@ -59,7 +59,7 @@ The header is fixed so when you scroll down it will follow the user to the botto
 
 ### Footer
 
-Within the footer you can find social links to the developer's pages. Just like the navigation bar the user will get visual conformation when hovering over one of the links. All links open in a new page.
+- Within the footer you can find social links to the developer's pages. Just like the navigation bar the user will get visual conformation when hovering over one of the links. All links open in a new page.
 
 <img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/footer.png" width="100%">
 
@@ -166,15 +166,15 @@ For this website I used three different colours:
 
 ### Known Bugs
 
-The only bug I know is when I open the hamburger menu aspecially on a small screen and its not completly visible, a user cant scroll down to go to tools and sometimes only contact page. This is because I made the header fixed to make it eaeier for users when wanting to switch pages. I tried to put the buttons closer to each other and at least on my laptop (developer tools) it looked fine until I opended it on my phone in landschape mode. 
+- The only bug I know is when I open the hamburger menu aspecially on a small screen and its not completly visible, a user cant scroll down to go to tools and sometimes only contact page. This is because I made the header fixed to make it eaeier for users when wanting to switch pages. I tried to put the buttons closer to each other and at least on my laptop (developer tools) it looked fine until I opended it on my phone in landschape mode. 
 
 <img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/bugs(developer).png" width="100%">
 
-Image above is landschape mode for mobile in developer options.
+- Image above is landschape mode for mobile in developer options.
 
 <img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/bugs(mobile).jpeg" width="100%">
 
-Image above is a screenshot from my phone in landschape mode.
+- Image above is a screenshot from my phone in landschape mode.
 
 ## Deployment
 
@@ -243,3 +243,7 @@ All other images on the "Tools" page were made by the developer.
 #### Favicon
 
 - The favicon comes from Font Awesome, however [Florian Gauger](https://github.com/devgg) made a tool that lets you download all the fonts from Font Awesome and add it as a favicon. Here's the link of the [site](https://gauger.io/fonticon/)
+
+### Acknowledgements
+
+- My substitute mentor [Tim Nelson](https://github.com/TravelTimN) for hes time and feedback for my last session of this project.
