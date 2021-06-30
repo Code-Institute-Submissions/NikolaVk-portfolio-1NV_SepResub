@@ -4,7 +4,7 @@
 
 <img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/amiresponcive.png" width="100%">
 
-The "How to garden" website is made to try and get people to go outside and get green fingers. Is's mostly targeted for people who want to design, construct and maintain their own yard. Also for people who don't want or can't hire a landscaper because from own experience as being a landscaper myself it can get pretty expensive really quickly.
+The ["How to garden"](https://nikolavk.github.io/portfolio-1NV/index.html) website is made to try and get people to go outside and get green fingers. Is's mostly targeted for people who want to design, construct and maintain their own yard. Also for people who don't want or can't hire a landscaper because from own experience as being a landscaper myself it can get pretty expensive really quickly.
 
 ## UX
 
