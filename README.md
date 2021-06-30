@@ -168,6 +168,14 @@ For this website I used three different colours:
 
 The only bug I know is when I open the hamburger menu aspecially on a small screen and its not completly visible, a user cant scroll down to go to tools and sometimes only contact page. This is because I made the header fixed to make it eaeier for users when wanting to switch pages. I tried to put the buttons closer to each other and at least on my laptop (developer tools) it looked fine until I opended it on my phone in landschape mode. 
 
+<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/bugs(developer).png" width="100%">
+
+Image above is landschape mode for mobile in developer options.
+
+<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/bugs(mobile).jpeg" width="100%">
+
+Image above is a screenshot from my phone in landschape mode.
+
 ## Deployment
 
 ### Github pages
