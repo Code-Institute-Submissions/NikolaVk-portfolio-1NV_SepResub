@@ -116,6 +116,17 @@ I tested the site on a 17.3 and 15.3 inch laptop on Google Chrome, Mozilla Firef
 The site was also tested on a android teblet using Google Chrome and on a iPad using Safari. It was tested in portrait and landschape mode.
 I also tested it my android phone using Google chrome and on a iPhone using Safari.
 
+<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/screenshot-msi.png" width="100%">
+
+In the image above I have the site's homepage open on two screens. Left is open on a 17.3 inch laptop with Mozilla Firefox and right a 23.6 inch screen with Google chrome.
+
+<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/screenshot-ipad.jpeg" width="80%">
+
+In this image above I have the homepage open on a 10.2 inch iPad using Safari in landschape mode.
+
+<img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/screenshot-samsung.jpeg" width="50%">
+
+In this image above I have the homepage open in a 6.9 inch mobile phone using Google Chrome in portrait mode.
 
 ### Validator Testing 
 
