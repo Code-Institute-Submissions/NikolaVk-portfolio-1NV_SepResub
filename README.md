@@ -49,7 +49,7 @@ The header is fixed so when you scroll down it will follow the user to the botto
 
 ### Construction page
 
-On the construction page there are lists of tools a user would need to use to construct and/or maintain their garden. If a user doesn't know how a certain tool looks like they can click on one of the listed items and it will take them to the tools page showing them that specific tool.
+- On the construction page there are lists of tools a user would need to use to construct and/or maintain their garden. If a user doesn't know how a certain tool looks like they can click on one of the listed items and it will take them to the tools page showing them that specific tool.
 
 ### Contact page
 
