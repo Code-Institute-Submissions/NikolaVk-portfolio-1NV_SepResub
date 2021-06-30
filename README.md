@@ -47,6 +47,10 @@ The header is fixed so when you scroll down it will follow the user to the botto
     <img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/hamburger.png" width="50%">
 </div>
 
+### Construction page
+
+On the construction page there are lists of tools a user would need to use to construct and/or maintain their garden. If a user doesn't know how a certain tool looks like they can click on one of the listed items and it will take them to the tools page showing them that specific tool.
+
 ### Contact page
 
 - The contact page is made for users who don't understand or have questions about construction, maintenance and tools.
@@ -162,7 +166,9 @@ For this website I used three different colors:
 
 ### Known Bugs
 
-- The only bug I know is when I open the hamburger menu especially on a small screen and its not completely visible, a user can't scroll down to go to tools and sometimes only contact page. This is because I made the header fixed to make it easier for users when wanting to switch pages. I tried to put the buttons closer to each other and at least on my laptop (developer tools) it looked fine until I opened it on my phone in landscape mode. 
+1. One of the bugs I know is when I open the hamburger menu especially on a small screen and its not completely visible, a user can't scroll down to go to tools and sometimes only contact page. This is because I made the header fixed to make it easier for users when wanting to switch pages. I tried to put the buttons closer to each other and at least on my laptop (developer tools) it looked fine until I opened it on my phone in landscape mode. 
+
+2. On the construction page there are links to go to tools. As you will see when clicked on one of the list elements it will be slightly lower than where it should be when the tools page is loaded. This also has to do with the fact of the fixed header. Because I realized I wanted that fixed header I didn't know how to make it without having all other elements move up. So to fix it I made a div called spacer to move all elements down. Except for some reason this bug still keeps occurring.
 
 <img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/bugs(developer).png" width="100%">
 
