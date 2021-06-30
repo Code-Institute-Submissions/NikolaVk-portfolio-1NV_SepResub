@@ -4,7 +4,7 @@
 
 <img src="https://github.com/NikolaVk/portfolio-1NV/blob/master/assets/readme/amiresponcive.PNG" width="100%">
 
-How to garden is a website made to try and get people to go outside and get green fingers. Is's mostly targeted for people who want to design, construct and maintain their own yard. Also for people who don't want or can't hire a landscaper because from own experience as being a landscaper myself it can get pretty expencive really quickly.
+The "How to garden" website is made to try and get people to go outside and get green fingers. Is's mostly targeted for people who want to design, construct and maintain their own yard. Also for people who don't want or can't hire a landscaper because from own experience as being a landscaper myself it can get pretty expencive really quickly.
 
 ## Features 
 
@@ -12,7 +12,7 @@ How to garden is a website made to try and get people to go outside and get gree
 
 Every page has its own image so you know for sure you switched from one page to another
 
-### Header
+### Navigation bar
 
 The navigation bar has visual conformation on a computer when you hover over it.
 The header is fixed so when you scroll down it will follow the user to the bottom so that the user never has to scroll back up when wanting to switch pages
@@ -29,7 +29,7 @@ For mobile devices the navigation bar will dissapear and go into a hamburger men
 
 ### Construction page
 
-On the construction page theres a list of items within every section. Within that list are links that will open the tools page and it will automatically scroll down to that specific tool so the user knows how the tool looks like widouth having to go to a different website
+On the construction page theres a list of items within every section. Within that list are links that will open the tools page and it will automatically scroll down to that specific tool so the user knows how the tool looks like widouth having to go to a different website. The tools page also opens in a new tab so the user doesn't have to go back and forward.
 
 ### Contact page
 
@@ -47,11 +47,13 @@ Within the footer you can find social links to the developer's pages. Just like 
 
 ### Font
 
+The fonts used for this site are Merryweather and Lato with a backup of Sans-serif. 
+
 ### Color Scheme
 
 ## Wireframes
 
-The wireframe was made using AdobeXD and exported to a pdf file.
+The wireframe was made using AdobeXD and exported as a pdf file.
 
 [View](assets/readme/pojoect-1.pdf)
 
