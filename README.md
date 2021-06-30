@@ -100,13 +100,31 @@ This passes on all accept the color blindess test (score must be 500 or above), 
 
 This color combination has a much better score for color blindness, but still not quite enough. For this reason the font is large and bold and only used as a header of each page. The user also gets convormation when on a different page due to a fitting image on them.
 
-
-
 ## Wireframes
 
 The wireframe was made using AdobeXD and exported as a pdf file.
 
 [View](assets/readme/pojoect-1.pdf)
+
+## Technologies used
+
+### Languages used
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+### Tools used
+
+[AdobeXD](https://www.adobe.com/nl/products/xd.html) was used to create the wireframe.
+[Adobe InDesign](https://www.adobe.com/products/indesign.html) was used to make the logo for the readme.
+[Github](https://github.com/) was used to store all the code added.
+[Visual Studio Code](https://code.visualstudio.com/) was used to develop this project.
+
+### Libraries used
+
+[Font Awesome](https://fontawesome.com/) was used for all icons.
+[Google fonts](https://fonts.google.com/) was used to style the website fonts.
+
 
 ## Testing 
 
