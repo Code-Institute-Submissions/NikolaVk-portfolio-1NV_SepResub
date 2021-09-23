@@ -469,6 +469,7 @@ textarea, input:focus{
     width: 40%;
     float: left;
     margin-left: 50px;
+    cursor: pointer;
 
 }
 
