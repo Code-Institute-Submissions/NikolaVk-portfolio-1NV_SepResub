@@ -739,7 +739,7 @@ textarea, input:focus{
     }
 
     .contact {
-        width: 285px;
+        width: 385px;
     }
 
     .button{
@@ -765,7 +765,29 @@ textarea, input:focus{
 
 @media (max-height:420px){
     #ham-ul{
-        line-height: 50px;
+        line-height: 35px;
         margin-top: -45px;
+    }
+}
+
+
+@media (max-width:350px){
+
+    #ham-ul{
+        line-height: 70px;
+    }
+
+    #hero-text{
+        padding: 20px;
+    }
+
+    #con-intro{
+        border: none;
+    }
+
+    .contact{
+        margin-right: 0;
+        top: 50px;
+        width: 100%;
     }
 }
