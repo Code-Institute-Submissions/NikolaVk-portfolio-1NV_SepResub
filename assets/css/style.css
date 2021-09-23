@@ -848,7 +848,7 @@ textarea, input:focus{
 
 @media (max-height:280px){
     #ham-ul{
-        line-height: 28px;
+        line-height: 28px !important;
     }
 
     #con-intro{
