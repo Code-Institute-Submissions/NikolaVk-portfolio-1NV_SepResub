@@ -791,3 +791,81 @@ textarea, input:focus{
         width: 100%;
     }
 }
+
+@media (max-width:280px){
+
+    #logo{
+        font-size: 25px;
+    }
+
+    #hero-text{
+        padding: 15px 8px 15px 8px;
+    }
+
+    #hero-text h2{
+        font-size: 20px;
+    }
+
+    #hero-text h3{
+        font-size: 10px;
+    }
+
+    #construction-text{
+        margin: 0px;
+        padding: 15px;
+        font-size: 20px;
+    }
+
+    #maintenance-text{
+        margin: 0px;
+        padding: 15px;
+        font-size: 20px;
+    }
+
+    #handheld{
+        height: 145px;
+    }
+
+    #tools-text{
+        padding: 15px;
+        font-size: 20px;
+    }
+
+    #contact-text{
+        padding: 15px;
+        font-size: 20px;
+    }
+
+    #con-intro{
+        font-size: 13px;
+        width: 250px;
+    }
+
+    #social{
+        font-size: 10px;
+    }
+}
+
+@media (max-height:280px){
+    #ham-ul{
+        line-height: 28px;
+    }
+
+    #con-intro{
+        font-size: 13px;
+        width: 450px;
+    }
+
+
+}
+
+@media (max-height:520px){
+
+    #ham-ul{
+        line-height: 60px;
+    }
+
+    .contact{
+        margin-right: 25px;
+    }
+}
