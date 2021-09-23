@@ -774,6 +774,10 @@ textarea, input:focus{
 
 @media (max-width:350px){
 
+    #ham-ul{
+        line-height: 70px;
+    }
+
     #hero-text{
         padding: 20px;
     }
