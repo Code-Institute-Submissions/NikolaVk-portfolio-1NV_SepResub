@@ -740,7 +740,9 @@ textarea, input:focus{
     }
 
     .contact {
-        width: 385px;
+        width: 100%;
+        margin-right: 0;
+
     }
 
     .button{
@@ -786,11 +788,7 @@ textarea, input:focus{
         border: none;
     }
 
-    .contact{
-        margin-right: 0;
-        top: 50px;
-        width: 100%;
-    }
+    
 }
 
 @media (max-width:280px){
@@ -864,9 +862,5 @@ textarea, input:focus{
 
     #ham-ul{
         line-height: 60px;
-    }
-
-    .contact{
-        margin-right: 25px;
     }
 }
