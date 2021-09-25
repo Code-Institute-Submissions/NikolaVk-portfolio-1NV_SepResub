@@ -854,13 +854,12 @@ textarea, input:focus{
         font-size: 13px;
         width: 450px;
     }
-
-
 }
+
 
 @media (max-height:520px){
 
     #ham-ul{
-        line-height: 60px;
+        line-height: 50px;
     }
 }
