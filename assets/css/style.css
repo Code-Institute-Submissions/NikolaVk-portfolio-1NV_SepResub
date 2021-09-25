@@ -630,6 +630,7 @@ textarea, input:focus{
 
     #ham-ul{
         height: 600px;
+        line-height: 70px;
     }
 
     #hero-text{
